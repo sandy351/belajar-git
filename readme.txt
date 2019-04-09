@@ -1,1 +1,1 @@
-belajaran pake git
+belajaran pake github
