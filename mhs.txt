@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 Nama : Andhika ryan Pratama
 NIM : 04216040
@@ -16,3 +17,6 @@ Yosia Chrismas Decky Halundaka
 
 NUR CHOLIS SHOHIB
 NIM : 04217032
+
+Nama : Muammar Afif
+NIM : 04218119
